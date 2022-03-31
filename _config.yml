@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "OeeSherbet' Room"
 title_separator          : "|"
-subtitle                 : "soft power to change the world"
+subtitle                 : "software to change the world"
 name                     : "JeungEunOh"
 description              : "About JeungEunOh? OeeSherbet? "
 url                      : "https://oeesherbet.github.io"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "JeungEunOh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **wonderful** person."
   location         : "South Korea"
   email            : "ohjuliet1997@gmail.com"
   links:
